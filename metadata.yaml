@@ -1,0 +1,32 @@
+_repo: Louisa-Pallant_8081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: This piece of strategy left me staring and made me, I must confess, quite
+  furious. My only consolation was that Archie, when I told him, looked as blank as
+  myself, and that the trick touched him more nearly, for I was not now in love with
+  Louisa. We agreed that we required an explanation and we pretended to expect one
+  the next day in the shape of a letter satisfactory even to the point of being apologetic.
+  When I say "we" pretended I mean that I did, for my suspicion that he knew what
+  had been on foot--through an arrangement with Linda--lasted only a moment. ...
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Louisa Pallant
+url: http://www.gutenberg.org/ebooks/8081
